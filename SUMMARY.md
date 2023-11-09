@@ -1,6 +1,7 @@
 # Table of contents
 
-* [HashQuark Product](README.md)
+* [Welcome](README.md)
+* [HashQuark Product](<README (1).md>)
 
 ## VALIDATORS
 
