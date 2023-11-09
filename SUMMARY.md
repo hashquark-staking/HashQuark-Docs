@@ -17,12 +17,12 @@
   * [Get Started](api/data-api/get-started.md)
   * [API Specs](api/data-api/api-specs.md)
 
-## Staking Pool
+## Pooled Staking
 
-* [Overview](staking-pool/overview.md)
-* [Staking](staking-pool/staking.md)
-* [Unstaking](staking-pool/unstaking.md)
-* [Reporting](staking-pool/reporting.md)
+* [Overview](pooled-staking/overview.md)
+* [Staking](pooled-staking/staking.md)
+* [Unstaking](pooled-staking/unstaking.md)
+* [Reporting](pooled-staking/reporting.md)
 
 ## DASHBOARD
 
