@@ -72,4 +72,43 @@ end
 
 
 
+```mermaid
+sequenceDiagram
+participant User    
+participant ManagerContract
+participant Wallet
+participant CommissionReceiver
+User ->> + ManagerContract: WithdrawETH 
+ManagerContract ->> Wallet: Check Point is valid and Sufficiant Balance
+Wallet -->> ManagerContract: Sufficiant Balance
+ManagerContract ->> +Wallet: Call Transfer ETH
+Wallet ->> CommissionReceiver: TransferCommission
+Wallet ->> User: Transfer ETH
+Wallet -->> -ManagerContract: Succeed
+ManagerContract -->> - User: Succeed(Store UserPoint/UserPrinciple/CurrentPoint)
+```
+
 **withdrawal process (when the balance of Wallet Contract is insufficient):**
+
+```mermaid
+sequenceDiagram
+participant User    
+participant ManagerContract
+participant Wallet
+participant CommissionReceiver
+participant Manager
+User ->> + ManagerContract: WithdrawETH 
+ManagerContract ->> Wallet: Check Point is valid and Sufficiant Balance
+Wallet -->> ManagerContract: Unsufficiant Balance
+ManagerContract ->> ManagerContract: Store to Queue and Emit Event
+ManagerContract -->> - User: Succeed(Store UserPoint/UserPrinciple/CurrentPoint)
+
+Manager ->> +ManagerContract: Wait Balance to be sufficiant or transfer Ether to Contract
+loop Queue
+ManagerContract ->> +Wallet: Call Transfer ETH
+Wallet ->> CommissionReceiver: TransferCommission
+Wallet ->> User: Transfer ETH
+Wallet -->> -ManagerContract: Succeed
+end
+ManagerContract -->> -Manager: Succeed
+```
