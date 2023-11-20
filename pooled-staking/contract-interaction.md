@@ -21,3 +21,5 @@
 
 call the `calcPoint(uint256 ethAmount)` / `calcETH(uint256 point)` view function to calculate how many points/ETHs could change from a specific quantity of ETHs/points
 
+call the `getExchangeRate()` view function to query how many points can get from 1 ETH
+

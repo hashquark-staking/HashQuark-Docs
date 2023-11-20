@@ -21,7 +21,6 @@
 
 * [Overview](pooled-staking/overview.md)
 * [Contract Interaction](pooled-staking/contract-interaction.md)
-* [Unstaking](pooled-staking/unstaking.md)
 * [Reporting](pooled-staking/reporting.md)
 
 ## DASHBOARD
