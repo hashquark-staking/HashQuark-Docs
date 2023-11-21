@@ -30,6 +30,7 @@
   * [Get Started](api/staking-api/get-started.md)
   * [Supported Protocols](api/staking-api/supported-protocols/README.md)
     * [Ethereum (ETH)](api/staking-api/supported-protocols/ethereum-eth.md)
+    * [Cosmos Ecosystem](api/staking-api/supported-protocols/cosmos-ecosystem.md)
 * [Data API](api/data-api/README.md)
   * [Get Started](api/data-api/get-started.md)
   * [API Specs](api/data-api/api-specs.md)
