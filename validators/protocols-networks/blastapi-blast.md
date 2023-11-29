@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# BlastAPI (BLAST)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 0xe60466bf5bbca2407aca360640a44435b0f33255
 
 ## Staking Details
 

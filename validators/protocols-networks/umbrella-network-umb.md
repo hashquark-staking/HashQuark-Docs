@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Umbrella Network (UMB)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 0x8bf9661f1b247522c75dd0fe84355ad2eff27144
 
 ## Staking Details
 

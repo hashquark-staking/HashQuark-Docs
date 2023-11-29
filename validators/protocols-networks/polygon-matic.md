@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Polygon (MATIC)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 0x940c8217ba8ff6ed37759af8543c9e7da77470f2
 
 ## Staking Details
 

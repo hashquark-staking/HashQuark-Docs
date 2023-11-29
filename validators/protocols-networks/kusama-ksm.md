@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Kusama (KSM)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: FLdSKZjwaVuLpR2aPRi5csvsWgV6ZA3vZu58qx36oXukM63
 
 ## Staking Details
 

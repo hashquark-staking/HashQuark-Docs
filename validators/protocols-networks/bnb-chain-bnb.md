@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# BNB Chain (BNB)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: bva139vgg7x68z3z7mjcyg6q02h3y0pvah678vr0y3
 
 ## Staking Details
 

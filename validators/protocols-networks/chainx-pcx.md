@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# ChainX (PCX)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 5RjfjwXjzJtVd6EiTCG3RsJmUM9h4FgocswJyAaLvuBicwE4
 
 ## Staking Details
 

@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Q (Q)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 0x9A373227EE038176E0930454942AB526C1b45832
 
 ## Staking Details
 

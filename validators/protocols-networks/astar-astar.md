@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Astar (ASTAR)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: ZtjZbrLZkityYVHr5W76YP3FQNr31WVT8XoySC5hT3kj81m
 
 ## Staking Details
 

@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Klayth (KLAY)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 0x7880fe25dd0669fffbd82cf6e78c16d69af82a11
 
 ## Staking Details
 

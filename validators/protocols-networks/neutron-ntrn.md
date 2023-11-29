@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Neutron (NTRN)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: neutronvaloper1cgh5ksjwy2sd407lyre4l3uj2fdrqhpkeht5f2
 
 ## Staking Details
 

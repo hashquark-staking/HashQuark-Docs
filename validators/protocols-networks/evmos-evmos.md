@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Evmos (EVMOS)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: evmosvaloper12a6wa97lsv8wm62j07tz0xeqvfxddzyfg72d45
 
 ## Staking Details
 

@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Oasis (ROSE)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: oasis1qr5f26k9rnfa2pg6wgsuljyq7lecej3gaqqhyra5
 
 ## Staking Details
 

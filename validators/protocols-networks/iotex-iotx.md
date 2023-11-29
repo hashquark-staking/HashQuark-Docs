@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# IoTex (IOTX)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: io1u4pev9u5as7ujpk29wpsrc95m8kuhec3pmuk72
 
 ## Staking Details
 

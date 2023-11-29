@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Polkadot (DOT)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 15BQUqtqhmqJPyvvEH5GYyWffXWKuAgoSUHuG1UeNdb8oDNT
 
 ## Staking Details
 

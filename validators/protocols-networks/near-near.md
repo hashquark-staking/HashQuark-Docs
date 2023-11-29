@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Near (NEAR)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: hashquark.poolv1.near
 
 ## Staking Details
 

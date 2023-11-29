@@ -1,8 +1,12 @@
-# Archway (ARCH)
+---
+description: Protocol
+---
+
+# MAP Protocol (MAP)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 0x82965be3c2784edca8ad4472c80ffbe44404da49
 
 ## Staking Details
 

@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Celer (CELER)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 0xbFAF1c1D1700Fff76423C4BF4a073d2801e5cFb1
 
 ## Staking Details
 

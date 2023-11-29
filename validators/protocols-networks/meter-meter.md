@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Meter (METER)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 0x59c59c58fbcff3ee1e550a23a537aea791885733
 
 ## Staking Details
 

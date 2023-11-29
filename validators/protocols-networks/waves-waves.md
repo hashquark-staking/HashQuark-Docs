@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Waves (WAVES)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 3PN4bcg8VqsFaB52ncdgfmA4Go26Vc16pJz
 
 ## Staking Details
 

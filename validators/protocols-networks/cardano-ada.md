@@ -1,4 +1,4 @@
-# Archway (ARCH)
+# Cardano (ADA)
 
 ## **Validator Address**
 

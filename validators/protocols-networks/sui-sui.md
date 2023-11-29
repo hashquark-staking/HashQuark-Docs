@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Sui (SUI)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 0x24f61ae027301ee5ea68559b6d5f96de1c4879e1c85586044e08132d6af6ffd3
 
 ## Staking Details
 

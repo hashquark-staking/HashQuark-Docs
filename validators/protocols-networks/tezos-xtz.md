@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Tezos (XTZ)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: tz1KzSC1J9aBxKp7u8TUnpN8L7S65PBRkgdF
 
 ## Staking Details
 

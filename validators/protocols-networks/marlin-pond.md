@@ -1,8 +1,8 @@
-# Archway (ARCH)
+# Marlin (POND)
 
 ## **Validator Address**
 
-**Mainnet**:&#x20;
+**Mainnet**: 0x42b8a21a24f7b673c2b61c0fcfc40976e0a22486
 
 ## Staking Details
 
