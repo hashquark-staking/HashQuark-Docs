@@ -36,7 +36,7 @@
   * [Kusama (KSM)](validators/protocols-networks/kusama-ksm.md)
   * [MAP Protocol (MAP)](validators/protocols-networks/map-protocol-map.md)
   * [Marlin (POND)](validators/protocols-networks/marlin-pond.md)
-  * [Meter (METER)](validators/protocols-networks/meter-meter.md)
+  * [Meter (METER)](validators/protocols-networks/meter-mtrg.md)
   * [Mina (MINA)](validators/protocols-networks/mina-mina.md)
   * [Near (NEAR)](validators/protocols-networks/near-near.md)
   * [Neutron (NTRN)](validators/protocols-networks/neutron-ntrn.md)

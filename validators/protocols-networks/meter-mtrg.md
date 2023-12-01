@@ -1,4 +1,4 @@
-# Meter (METER)
+# Meter (MTRG)
 
 ## **Validator Address**
 
