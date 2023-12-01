@@ -7,5 +7,5 @@
 | **Lock-Up Time**           | Depending on the exit queue length (Days)           |
 | **Unbonding Time**         | Depending on network conditions (Days)              |
 | **Auto-Compounding**       | No                                                  |
-| **Minimum Staking Amount** | 32ETH                                               |
+| **Minimum Staking Amount** | 32 ETH                                              |
 

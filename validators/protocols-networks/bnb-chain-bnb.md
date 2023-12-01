@@ -6,10 +6,10 @@
 
 ## Staking Details
 
-| **Activation Time**        |   |
-| -------------------------- | - |
-| **Lock-Up Time**           |   |
-| **Unbonding Time**         |   |
-| **Auto-Compounding**       |   |
-| **Minimum Staking Amount** |   |
+| **Activation Time**        | 2 days          |
+| -------------------------- | --------------- |
+| **Lock-Up Time**           | No lock-up time |
+| **Unbonding Time**         | 7 days          |
+| **Auto-Compounding**       | No              |
+| **Minimum Staking Amount** | 1 BNB           |
 
