@@ -6,10 +6,10 @@
 
 ## Staking Details
 
-| **Activation Time**        |   |
-| -------------------------- | - |
-| **Lock-Up Time**           |   |
-| **Unbonding Time**         |   |
-| **Auto-Compounding**       |   |
-| **Minimum Staking Amount** |   |
+| **Activation Time**        | Next epoch (almost 18 hour)   |
+| -------------------------- | ----------------------------- |
+| **Lock-Up Time**           | Next epoch (almost 18 hour)   |
+| **Unbonding Time**         | 7 epochs (5 days and 6 hours) |
+| **Auto-Compounding**       | No                            |
+| **Minimum Staking Amount** | 100 ONE                       |
 

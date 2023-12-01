@@ -6,10 +6,10 @@
 
 ## Staking Details
 
-| **Activation Time**        |   |
-| -------------------------- | - |
-| **Lock-Up Time**           |   |
-| **Unbonding Time**         |   |
-| **Auto-Compounding**       |   |
-| **Minimum Staking Amount** |   |
+| **Activation Time**        | Next era (almost 1 day) |
+| -------------------------- | ----------------------- |
+| **Lock-Up Time**           | Next era (almost 1 day) |
+| **Unbonding Time**         | 28 days                 |
+| **Auto-Compounding**       | No                      |
+| **Minimum Staking Amount** | 1 DOT                   |
 

@@ -40,7 +40,7 @@
   * [Mina (MINA)](validators/protocols-networks/mina-mina.md)
   * [Near (NEAR)](validators/protocols-networks/near-near.md)
   * [Neutron (NTRN)](validators/protocols-networks/neutron-ntrn.md)
-  * [Nym (NYM)](validators/protocols-networks/nym-nym.md)
+  * [Nyx (NYX)](validators/protocols-networks/nym-nym.md)
   * [Oasis (ROSE)](validators/protocols-networks/oasis-rose.md)
   * [Persistence (XPRT)](validators/protocols-networks/persistence-xprt.md)
   * [PlatON (LAT)](validators/protocols-networks/platon-lat.md)

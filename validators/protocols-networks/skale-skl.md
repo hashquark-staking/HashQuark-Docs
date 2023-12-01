@@ -6,10 +6,10 @@
 
 ## Staking Details
 
-| **Activation Time**        |   |
-| -------------------------- | - |
-| **Lock-Up Time**           |   |
-| **Unbonding Time**         |   |
-| **Auto-Compounding**       |   |
-| **Minimum Staking Amount** |   |
+| **Activation Time**        | At the start of every month  |
+| -------------------------- | ---------------------------- |
+| **Lock-Up Time**           | At least  2 months (2 epoch) |
+| **Unbonding Time**         | No unbonding time            |
+| **Auto-Compounding**       | No                           |
+| **Minimum Staking Amount** | 10,000 SKL                   |
 

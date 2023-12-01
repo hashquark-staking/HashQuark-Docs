@@ -6,10 +6,10 @@
 
 ## Staking Details
 
-| **Activation Time**        |   |
-| -------------------------- | - |
-| **Lock-Up Time**           |   |
-| **Unbonding Time**         |   |
-| **Auto-Compounding**       |   |
-| **Minimum Staking Amount** |   |
+| **Activation Time**        | Immediate                      |
+| -------------------------- | ------------------------------ |
+| **Lock-Up Time**           | Lock-up time is set when stake |
+| **Unbonding Time**         | 3 days                         |
+| **Auto-Compounding**       | No                             |
+| **Minimum Staking Amount** | 100 IOTX                       |
 

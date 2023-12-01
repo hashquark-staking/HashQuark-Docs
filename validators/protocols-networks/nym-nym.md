@@ -1,4 +1,4 @@
-# Nym (NYM)
+# Nyx (NYX)
 
 ## **Validator Address**
 
@@ -6,10 +6,10 @@
 
 ## Staking Details
 
-| **Activation Time**        |   |
-| -------------------------- | - |
-| **Lock-Up Time**           |   |
-| **Unbonding Time**         |   |
-| **Auto-Compounding**       |   |
-| **Minimum Staking Amount** |   |
+| **Activation Time**        | Immediate       |
+| -------------------------- | --------------- |
+| **Lock-Up Time**           | No lock-up time |
+| **Unbonding Time**         | 21 days         |
+| **Auto-Compounding**       | No              |
+| **Minimum Staking Amount** | Limitless       |
 

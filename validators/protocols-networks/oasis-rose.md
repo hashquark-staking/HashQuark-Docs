@@ -6,10 +6,10 @@
 
 ## Staking Details
 
-| **Activation Time**        |   |
-| -------------------------- | - |
-| **Lock-Up Time**           |   |
-| **Unbonding Time**         |   |
-| **Auto-Compounding**       |   |
-| **Minimum Staking Amount** |   |
+| **Activation Time**        | 1 epoch (almost 1 hour) |
+| -------------------------- | ----------------------- |
+| **Lock-Up Time**           | 1 epoch (almost 1 hour) |
+| **Unbonding Time**         | 14 days                 |
+| **Auto-Compounding**       | Yes                     |
+| **Minimum Staking Amount** | 100 ROSE                |
 

@@ -10,10 +10,10 @@ description: Protocol
 
 ## Staking Details
 
-| **Activation Time**        |   |
-| -------------------------- | - |
-| **Lock-Up Time**           |   |
-| **Unbonding Time**         |   |
-| **Auto-Compounding**       |   |
-| **Minimum Staking Amount** |   |
+| **Activation Time**        | 1 epoch         |
+| -------------------------- | --------------- |
+| **Lock-Up Time**           | No lock-up time |
+| **Unbonding Time**         | 15 days         |
+| **Auto-Compounding**       | No              |
+| **Minimum Staking Amount** | Limitless       |
 

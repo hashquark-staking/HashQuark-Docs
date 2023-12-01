@@ -6,10 +6,10 @@
 
 ## Staking Details
 
-| **Activation Time**        | 1 epoch (almost 7 days) |
-| -------------------------- | ----------------------- |
-| **Lock-Up Time**           | No lock-up time         |
-| **Unbonding Time**         | 14 days                 |
-| **Auto-Compounding**       | No                      |
-| **Minimum Staking Amount** | Limitless               |
+| **Activation Time**        | Next epoch (almost 7 days) |
+| -------------------------- | -------------------------- |
+| **Lock-Up Time**           | No lock-up time            |
+| **Unbonding Time**         | 14 days                    |
+| **Auto-Compounding**       | No                         |
+| **Minimum Staking Amount** | Limitless                  |
 

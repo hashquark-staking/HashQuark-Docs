@@ -6,10 +6,10 @@
 
 ## Staking Details
 
-| **Activation Time**        |   |
-| -------------------------- | - |
-| **Lock-Up Time**           |   |
-| **Unbonding Time**         |   |
-| **Auto-Compounding**       |   |
-| **Minimum Staking Amount** |   |
+| **Activation Time**        | 1 era (almost 6 hours) |
+| -------------------------- | ---------------------- |
+| **Lock-Up Time**           | 1 era (almost 6 hours) |
+| **Unbonding Time**         | 7 days                 |
+| **Auto-Compounding**       | No                     |
+| **Minimum Staking Amount** | 0.1 KSM                |
 

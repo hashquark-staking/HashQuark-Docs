@@ -6,10 +6,10 @@
 
 ## Staking Details
 
-| **Activation Time**        |   |
-| -------------------------- | - |
-| **Lock-Up Time**           |   |
-| **Unbonding Time**         |   |
-| **Auto-Compounding**       |   |
-| **Minimum Staking Amount** |   |
+| **Activation Time**        | Next epoch (10750 blocks per epoch) |
+| -------------------------- | ----------------------------------- |
+| **Lock-Up Time**           | No lock-up time                     |
+| **Unbonding Time**         | 7 days                              |
+| **Auto-Compounding**       | No                                  |
+| **Minimum Staking Amount** | Limitless                           |
 

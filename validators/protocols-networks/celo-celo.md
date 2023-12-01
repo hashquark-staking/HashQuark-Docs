@@ -12,5 +12,4 @@
 | **Unbonding Time**         | 3 days          |
 | **Auto-Compounding**       | No              |
 | **Minimum Staking Amount** | No              |
-|                            |                 |
 
