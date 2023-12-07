@@ -13,3 +13,9 @@
 | **Auto-Compounding**       | No                        |
 | **Minimum Staking Amount** | Limitless                 |
 
+## How To Stake
+
+1. Ensure you have $MATIC on Ethereum Mainnet not Polygon Mainnet
+2. Go to [https://staking.polygon.technology/validators/34](https://staking.polygon.technology/validators/34)
+3. Connect your wallet (Ethereum Mainnet)
+4. Click "Become a Delegator" to stake

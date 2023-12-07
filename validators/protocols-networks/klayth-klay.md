@@ -13,3 +13,8 @@
 | **Auto-Compounding**       | Yes (per day)   |
 | **Minimum Staking Amount** | Limitless       |
 
+## How To Stake
+
+1. Go to [https://klayportal.hashquark.io/#/](https://klayportal.hashquark.io/#/)
+2. Connect your Kaikas wallet
+3. Enter the amount then delegate
