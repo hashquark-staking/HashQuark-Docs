@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: cosmosvaloper1cgh5ksjwy2sd407lyre4l3uj2fdrqhpkzp06e6
+**Mainnet**: [cosmosvaloper1cgh5ksjwy2sd407lyre4l3uj2fdrqhpkzp06e6](https://www.mintscan.io/cosmos/validators/cosmosvaloper1cgh5ksjwy2sd407lyre4l3uj2fdrqhpkzp06e6)
 
 ## Staking Details
 

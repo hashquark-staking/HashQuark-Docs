@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: archwayvaloper1lyj3ywvl4cj68sl2ac5rp5y06hdfxx3el7nkzm
+**Mainnet**: [archwayvaloper1lyj3ywvl4cj68sl2ac5rp5y06hdfxx3el7nkzm](https://archgregator.online/validators/archwayvaloper1lyj3ywvl4cj68sl2ac5rp5y06hdfxx3el7nkzm)
 
 ## Staking Details
 

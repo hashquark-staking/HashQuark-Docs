@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: ZtjZbrLZkityYVHr5W76YP3FQNr31WVT8XoySC5hT3kj81m
+**Mainnet**: [ZtjZbrLZkityYVHr5W76YP3FQNr31WVT8XoySC5hT3kj81m](https://astar.subscan.io/account/ZtjZbrLZkityYVHr5W76YP3FQNr31WVT8XoySC5hT3kj81m)
 
 ## Staking Details
 

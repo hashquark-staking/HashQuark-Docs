@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: 01652d9fbd8dbb443af0122cd4347f4107e697306e5b90f93dbf959f7612e5e7d2
+**Mainnet**: [01652d9fbd8dbb443af0122cd4347f4107e697306e5b90f93dbf959f7612e5e7d2](https://cspr.live/validator/01652d9fbd8dbb443af0122cd4347f4107e697306e5b90f93dbf959f7612e5e7d2)
 
 ## Staking Details
 

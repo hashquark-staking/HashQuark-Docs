@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: corevaloper1up3dsjekups4y2rf376a24l2ljtkc8t930hsft
+**Mainnet**: [corevaloper1up3dsjekups4y2rf376a24l2ljtkc8t930hsft](https://explorer.coreum.com/coreum/validators/corevaloper1up3dsjekups4y2rf376a24l2ljtkc8t930hsft)
 
 ## Staking Details
 

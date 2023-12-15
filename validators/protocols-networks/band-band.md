@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: bandvaloper1dr64r506ln5n3aqqgkccf56uwdd9d9jvlh9l4p
+**Mainnet**: [bandvaloper1dr64r506ln5n3aqqgkccf56uwdd9d9jvlh9l4p](https://www.cosmoscan.io/validator/bandvaloper1dr64r506ln5n3aqqgkccf56uwdd9d9jvlh9l4p)
 
 ## Staking Details
 

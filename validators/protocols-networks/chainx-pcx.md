@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: 5RjfjwXjzJtVd6EiTCG3RsJmUM9h4FgocswJyAaLvuBicwE4
+**Mainnet**: [5RjfjwXjzJtVd6EiTCG3RsJmUM9h4FgocswJyAaLvuBicwE4](https://scan.chainx.org/nodeDetails/5RjfjwXjzJtVd6EiTCG3RsJmUM9h4FgocswJyAaLvuBicwE4)
 
 ## Staking Details
 

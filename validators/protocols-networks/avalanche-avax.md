@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: JRNiPWVdV7Vq7MzBmAQB4jekNTfvRAedj
+**Mainnet**: [JRNiPWVdV7Vq7MzBmAQB4jekNTfvRAedj](https://subnets.avax.network/validators/NodeID-JRNiPWVdV7Vq7MzBmAQB4jekNTfvRAedj)
 
 ## Staking Details
 

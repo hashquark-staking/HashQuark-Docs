@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: akashvaloper189w9p64x4lmwnap07kelrx7xsnnf0annk5fyp9
+**Mainnet**: [akashvaloper189w9p64x4lmwnap07kelrx7xsnnf0annk5fyp9](https://akashexplorer.com/akash/staking/akashvaloper189w9p64x4lmwnap07kelrx7xsnnf0annk5fyp9)
 
 ## Staking Details
 

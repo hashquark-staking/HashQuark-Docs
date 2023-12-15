@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: f4d6271e886a4a2ca6e4d3c91156204b0e26569a2b01eda832cb862c
+**Mainnet**: [f4d6271e886a4a2ca6e4d3c91156204b0e26569a2b01eda832cb862c](https://cardanoscan.io/pool/f4d6271e886a4a2ca6e4d3c91156204b0e26569a2b01eda832cb862c)
 
 ## Staking Details
 
