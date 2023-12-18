@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [HashQuark Product](<README (1).md>)
+* [HashKey Cloud Product](<README (1).md>)
 
 ## VALIDATORS
 
