@@ -60,6 +60,7 @@
   * [XPLA (XPLA)](validators/protocols-networks/xpla-xpla.md)
   * [Waves (WAVES)](validators/protocols-networks/waves-waves.md)
   * [WEMIX (WEMIX)](validators/protocols-networks/wemix-wemix.md)
+  * [ZetaChain (ZETA)](validators/protocols-networks/zetachain-zeta.md)
   * [Zilliqa (ZIL)](validators/protocols-networks/zilliqa-zil.md)
 
 ## API
