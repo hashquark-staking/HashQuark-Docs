@@ -2,7 +2,7 @@
 
 ## **Validator Address**
 
-**Mainnet**: CRzMxdyS56N2vkb55X5q155sSdVkjZhiFedWcbscCf7K
+**Mainnet**: Cat8oWQiFfrR3c7BcceTYcpnYCzSWfCPjMXT7mfHXvEP
 
 ## Staking Details
 
